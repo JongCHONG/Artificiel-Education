@@ -1,4 +1,4 @@
-# 🚀 Streamlit-LLM
+# 🚀 Artificiel-Education
 
 ## 📋 Table des matières
 - [Installation](#installation)
